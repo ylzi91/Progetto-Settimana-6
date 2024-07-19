@@ -56,27 +56,27 @@
     
 }
 @media screen and (min-width: 768px) {
-    main,footer{
+    .accountMain, .accountFooter{
         width: 65%;
         margin: 0 auto;
     } 
     
 }
 @media screen and (min-width: 992px) {
-    main, footer{
+    .accountMain, .accountFooter{
         width: 55%;
         margin: 0 auto;
     } 
 }
 @media screen and (min-width: 1200px) {
-    main,footer{
+    .accountMain, .accountFooter{
         width: 45%;
         margin: 0 auto;
     } 
     
 }
 @media screen and (min-width: 1400px) {
-    main,footer{
+    .accountMain, .accountFooter{
         width: 35%;
         margin: 0 auto;
     } 
